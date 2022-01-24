@@ -9,3 +9,6 @@ body{
 .decoration-none{
     text-decoration: none;
 }
+.vanila-border{
+    border-radius: 30px;
+}
