@@ -1,0 +1,11 @@
+/* Google Font Poppins imported */
+@import url('https://fonts.googleapis.com/css2?family=Licorice&family=Poppins:wght@500&display=swap');
+
+/* Style for whole body */
+body{
+    font-family: 'Licorice', cursive;
+    font-family: 'Poppins', sans-serif;
+}
+.decoration-none{
+    text-decoration: none;
+}
