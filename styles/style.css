@@ -12,3 +12,14 @@ body{
 .vanila-border{
     border-radius: 30px;
 }
+
+/* nav-bar hover effect */
+.navbar-nav> .nav-item:hover{
+    background-color: lightseagreen;
+    border-radius: 10px;
+}
+
+.vanila-div .vanila-effect:hover{
+    background-color: #bf80d8;
+    transition: background-color 0.9s ease-in-out;
+}
